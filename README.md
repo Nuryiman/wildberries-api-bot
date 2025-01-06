@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 
 ### 4. Настройте конфигурацию
-Создайте файл `config.py` в корне проекта и укажите ваш API токен:
+Создайте файлы `config.py` и config.json в корне проекта и укажите ваш API токен:
 ```python
 # config.py
 
